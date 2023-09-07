@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "Christian Andrade",
+      "userImage": "https://lh3.googleusercontent.com/a/AAcHTtezkxurzSsdHLhQnNKQo7s6dJ67hg-wFZ99QOWU1qbmVDaJ=s288-c-no",
+      "user_name": "3144439593",
+      "password": "12345",
+      "flag": true,
+      "phrase": "Mi perfil",
+      "id": 1,
+      "date": "31/8/2023, 17:36"
+    }
+  ],
+  "messages": []
+}
